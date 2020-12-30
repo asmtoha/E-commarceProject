@@ -1,0 +1,17 @@
+						--------------------------------
+						|Guideline to create an account!|
+						--------------------------------
+								
+				1.  First name has to be minimum 3 character and maximum character!
+				2.  Last name has to be minimum 3 character and maximum 20 character!
+				3.  Password has to be minimum 4 character and maximum 8 character!
+				4.  Gmail.com, hotmail.com, outlook.com, yahoo.com are allowed!
+				5.  Use valid email address!
+				6.  Phone number has to be minimum 9 character and maximum 13 character!
+				7.  Country name has to be minimum 4 character and maximum 20 character!
+				9.  City name has to be minimum 1 character and maximum 20 character!
+				10. Give valid information
+												
+						    ------------------
+						    |Create an account|
+						    ------------------
