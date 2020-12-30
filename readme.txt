@@ -1,3 +1,1 @@
-This is my first projec which is based on e-commarce site daraz. I've used C language
-author: A. S. M. Toha, Bangladesh.
-Thank you.
+all neccessary file added here
